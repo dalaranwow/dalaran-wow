@@ -1,7 +1,7 @@
 [//]: # (INFORMATION ABOUT TAGS)
-[//]: # The black and yellow tag is unique. There can only be one label assigned to them - one black and one yellow
-[//]: # OLD - ... tags should no longer be used
-[//]: # Priority - ... tags are assigned by team members
+[//]: # (The black and yellow tag is unique. There can only be one label assigned to them - one black and one yellow)
+[//]: # (OLD - ... tags should no longer be used)
+[//]: # (Priority - ... tags are assigned by team members)
 
 **Description**:
 
@@ -25,6 +25,3 @@ Issues without proofs will be closed and tag On Hold will be added until the pro
 You can research this on several pages like http://wotlk.openwow.com or http://wowhead.com/
 
 **Include Screenshots from the issue if necessary**
-
-
-
