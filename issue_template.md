@@ -1,3 +1,8 @@
+[//]: # (>>> INFORMATION ABOUT TAGS <<<)
+[//]: # The black and yellow tag is unique. There can only be one label assigned to them - one black and one yellow
+[//]: # OLD - ... tags should no longer be used
+[//]: # Priority - ... tags are assigned by team members
+
 **Description**:
 
 **Current behaviour**: Tell us what happens in detail (Where, When, What, Why, Who)
@@ -22,6 +27,4 @@ You can research this on several pages like http://wotlk.openwow.com or http://w
 **Include Screenshots from the issue if necessary**
 
 
-[//]: # (The black and yellow tag is unique. There can only be one label assigned to them (one black and one yellow).)
-[//]: # (OLD - ... tags should no longer be used)
-[//]: # (Priority - ... tags are assigned by team members)
+
