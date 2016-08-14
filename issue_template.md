@@ -1,4 +1,4 @@
-[//]: # (>>> INFORMATION ABOUT TAGS <<<)
+[//]: # (INFORMATION ABOUT TAGS)
 [//]: # The black and yellow tag is unique. There can only be one label assigned to them - one black and one yellow
 [//]: # OLD - ... tags should no longer be used
 [//]: # Priority - ... tags are assigned by team members
