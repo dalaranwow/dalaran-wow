@@ -1,7 +1,7 @@
 [//]: # (INFORMATION ABOUT TAGS)
 [//]: # (The black and yellow tag is unique. There can only be one label assigned to them - one black and one yellow)
 [//]: # (Priority - ... tags are assigned by team members)
-[//]: # (Your issue will be reviewed by testers and the developers will fix in the future.)
+[//]: # (Your issue will be reviewed by testers and the developers will fix it in the future.)
 [//]: # (Only once the issue got the label [Fixed - On Live Server] you can find the fix on your Gameserver.)
 [//]: # (You can increase the relevance of your issue by adding a thumb-up emote http://i.imgur.com/RFouVVi.png)
 
