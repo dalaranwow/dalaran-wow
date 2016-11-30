@@ -2,8 +2,20 @@
   <img src="http://i.imgur.com/eVJM860.jpg">
 </p>
 
-**Description**:
+Hello community, 
 
+please use the issuetemplate below to report a new issue.
+
+Your issue will be reviewed by testers and the developers will fix it in the future.
+
+Only once the issue got the label ![GitHub Logo](http://i.imgur.com/TQviwND.png) 
+
+you can find the fix on your Gameserver.
+You can increase the relevance of your issue by adding a thumb-up emote http://i.imgur.com/RFouVVi.png
+
+<p align="center">
+Issuetemplate
+</p>
 **Current behaviour**: Tell us what happens in detail (Where, When, What, Why, Who)
 
 **Expected behaviour**: Tell us what should happen instead
