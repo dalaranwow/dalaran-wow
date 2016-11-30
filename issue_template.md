@@ -1,13 +1,13 @@
 [//]: # (INFORMATION ABOUT TAGS)
 [//]: # (The black and yellow tag is unique. There can only be one label assigned to them - one black and one yellow)
-[//]: # (OLD - ... tags should no longer be used)
 [//]: # (Priority - ... tags are assigned by team members)
+[//]: # (Your issue will be reviewed by testers and the developers will fix in the future.)
+[//]: # (Only once the issue got the label [Fixed - On Live Server] you can find the fix on your Gameserver.)
+[//]: # (You can increase the relevance of your issue by adding a thumb-up emote http://i.imgur.com/RFouVVi.png)
 
 [//]: # (***************************************************************)
 [//]: # (** !!!!!!!!!!!!!DON'T DELETE THIS TEMPLATE ELSE YOUR ISSUE WILL BE CLOSED!!!!!!!!!!!! **)
 [//]: # (***************************************************************)
-
-**Description**:
 
 **Current behaviour**: Tell us what happens in detail (Where, When, What, Why, Who)
 
