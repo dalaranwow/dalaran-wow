@@ -4,7 +4,9 @@
 
 Hello community, 
 
-please use the issuetemplate below to report a new issue.
+thanks that you want to report and contribute for Dalaran-WoW!
+
+Please use the issuetemplate below to report a new issue.
 
 Your issue will be reviewed by testers and the developers will fix it in the future.
 
@@ -12,6 +14,14 @@ Only once the issue got the label ![GitHub Logo](http://i.imgur.com/TQviwND.png)
 
 you can find the fix on your Gameserver.
 You can increase the relevance of your issue by adding a thumb-up emote http://i.imgur.com/RFouVVi.png
+
+In order to open a new issue, click on "New Issue".
+
+![Alt Text](https://i.gyazo.com/822bb01fcf1b9f05bc5b1bac7c23c597.gif)
+
+Stay tuned and follow us on the bugtracker. Then you will see the newest updates and fixes.
+
+![Alt Text](https://i.gyazo.com/17ec7afde5c5cd82d6898525e1227816.gif)
 
 <p align="center">
 Issuetemplate
