@@ -23,9 +23,10 @@ Stay tuned and follow us on the bugtracker. Then you will see the newest updates
 
 ![Alt Text](https://i.gyazo.com/17ec7afde5c5cd82d6898525e1227816.gif)
 
-<p align="center">
-Issuetemplate
-</p>
+
+
+**Here you can open up a new issue** https://github.com/dalaranwow/dalaran-wow/issues/new
+
 **Current behaviour**: Tell us what happens in detail (Where, When, What, Why, Who)
 
 **Expected behaviour**: Tell us what should happen instead
