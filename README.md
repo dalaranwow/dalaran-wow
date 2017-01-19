@@ -8,6 +8,8 @@ thanks that you want to report and contribute for Dalaran-WoW!
 
 Please use the issuetemplate below to report a new issue.
 
+The issuetracker is for serverside and gamemechanic issues only. If you have any trouble with your character or your account (Missing rewards or login problems), please write an Ingame-issue to a Gamemaster and the Gamemaster will then help you as soon as he can. (Create a new account if you cannot login with you old account due to login problems).
+
 Your issue will be reviewed by testers and the developers will fix it in the future.
 
 Only once the issue got the label ![GitHub Logo](http://i.imgur.com/TQviwND.png) 
