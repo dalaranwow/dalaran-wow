@@ -42,6 +42,7 @@
 5004778 - 5004787:  Demetria and Guards
 5004788 - 5004838:  Dwarven farm in Arathi Highlands
 5004839 - 5004863:  Infesting Jormungar, Cavedweller Worg and Gimorak 
+5004864 - 5004872:  Ancient Orc Ancestor
 
 == =================================================================
 == Gameobject:
@@ -78,6 +79,7 @@
 == Waypoint-Scripts-GUIDS:
 == =================================================================
 10000   - 10000:    Mechagnome Laborer and Mechagnome Attendant Script
+10001   - 10001:    Ancient Orc Ancestor Script
 == =================================================================
 == Pool-Template:
 == =================================================================
