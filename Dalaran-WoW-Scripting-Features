@@ -1,0 +1,32 @@
+**Dalaran WoW Scripting Features**
+
+-- ================================================================================================================
+-- ================================================================================================================
+Waypoint_Scripts Map_Scripts
+
+SCRIPT_COMMAND_TALK_GROUPID - soucre = Creature, datalong = Textgroupid
+
+-- ================================================================================================================
+-- ================================================================================================================
+
+Creature Table
+
+`walkmode`
+
+walkmode = 0 Creature will walk if it uses randommovement
+
+walkmode = 1 Creature will run if it uses randommovement
+
+Example: https://github.com/dalaranwow/dalaran-wow/issues/4443
+
+
+`saiscriptflag`
+
+saiscriptflag = 0 Creature SAI -GUID Script will override the Creature SAI Entry Script
+
+saiscriptflag = 1 Creature SAI -GUID Script will work together with the Creature SAI Entry Script
+
+Example: https://github.com/dalaranwow/dalaran-wow/issues/4303
+
+-- ================================================================================================================
+-- ================================================================================================================
