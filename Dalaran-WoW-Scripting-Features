@@ -26,6 +26,10 @@ saiscriptflag = 0 Creature SAI -GUID Script will override the Creature SAI Entry
 
 saiscriptflag = 1 Creature SAI -GUID Script will work together with the Creature SAI Entry Script
 
+Note: Always use the -GUID script for individual Out-Of-Combat Events or Path Events. 
+
+The Entry script should mainly be used for Quest-Start/Quest-End Events or Combat Events
+
 Example: https://github.com/dalaranwow/dalaran-wow/issues/4303
 
 -- ================================================================================================================
