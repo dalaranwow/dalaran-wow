@@ -16,6 +16,8 @@ Some quick informations about using the Bugtracker:
 
 * You can increase the relevance of your issue by adding a thumb-up emote http://i.imgur.com/RFouVVi.png
 
+* Please Clear your cache ("WDB") folder of your game client before reporting any issue. 
+
 * Please use the issuetemplate below to report a new issue.
 
 In order to open a new issue, click on "New Issue".
