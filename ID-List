@@ -59,6 +59,7 @@
 5005257 - 5005299:  Hardknuckle Charger, Hardknuckle Forager, Softknuckle
 5005300 - 5005304:  Frenzyheart Berserker and Frenzyheart Tracker 
 5005305 - 5005307:  Sapphire Hive Drone/Wasp
+5005372 - 5005383:  Wounded Westfall Infantry + Wounded Skirmisher
 
 == =================================================================
 == Gameobject:
@@ -101,6 +102,7 @@
 == Pool-Template:
 == =================================================================
 202483  - 202483:   Nameless Prophet
+202484  - 202485:   Wounded Skirmisher + Wounded Westfall Infantry
 
 == =================================================================
 == Reference-Loot-Template:
