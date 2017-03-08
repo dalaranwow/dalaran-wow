@@ -63,6 +63,7 @@
 5005384 - 5005384:  Injured Rainspeaker Oracle
 5005385 - 5005386:  Skadir Longboatsman/Mistweaver/Raider 
 5005387 - 5005452:  Shardhorn Rhino and Dreadsaber
+5005453 - 5005455:  Generic Zone Spawner
 
 == =================================================================
 == Gameobject:
@@ -95,6 +96,8 @@
 1010579 - 1010579:  Gods Like Shiny Things - Trigger
 1010679 - 1010679:  Valduran the Stormborn Trigger
 1010688 - 1010690:  ToC - Dot tigger
+
+2010690 - 2010690:  Generic Zone Spawner
 
 == =================================================================
 == Waypoint-Scripts-GUIDS:
