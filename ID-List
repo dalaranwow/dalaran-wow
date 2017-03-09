@@ -64,6 +64,7 @@
 5005385 - 5005386:  Skadir Longboatsman/Mistweaver/Raider 
 5005387 - 5005452:  Shardhorn Rhino and Dreadsaber
 5005453 - 5005455:  Generic Zone Spawner
+5005456 - 5005457:  Warsong Marksman
 
 == =================================================================
 == Gameobject:
@@ -89,6 +90,7 @@
 4000082 - 4000082:  Stolen Pack
 4000083 - 4000083:  Workshop Fire
 4000084 - 4000088:  Charred Wreckage
+4000089 - 4000089:  Kvaldir Inferno
 
 == =================================================================
 == Creature Template:
