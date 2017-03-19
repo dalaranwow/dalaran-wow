@@ -70,6 +70,7 @@
 5005560 - 5005569:  Kvaldir Mist Lord and Kvaldir Mistweaver 
 5005570 - 5005630:  Den Vermin/Firestarter/Harvester and Magnataur Huntress and Bloodspore Moth
 5005809 - 5005815:  Northsea Mercenary, Northsea Thug and D.E.H.T.A.
+5005816 - 5005849:  Defense Dummy Target
 
 == =================================================================
 == Gameobject:
@@ -96,7 +97,6 @@
 4000083 - 4000083:  Workshop Fire
 4000084 - 4000088:  Charred Wreckage
 4000089 - 4000089:  Kvaldir Inferno
-4000146 - 4000168:  Northsea Mercenary, Northsea Thug and D.E.H.T.A.
 
 == =================================================================
 == Creature Template:
