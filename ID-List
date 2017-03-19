@@ -72,7 +72,7 @@
 5005809 - 5005815:  Northsea Mercenary, Northsea Thug and D.E.H.T.A.
 5005816 - 5005849:  Defense Dummy Target
 5005850 - 5005885:  Defense Dummy Target for Kvaldir Mist Lord
-
+5005886 - 5005904:  Dalaran Visitor 
 == =================================================================
 == Gameobject:
 == =================================================================
@@ -118,7 +118,8 @@
 == =================================================================
 202483  - 202483:   Nameless Prophet
 202484  - 202485:   Wounded Skirmisher + Wounded Westfall Infantry
-
+202486  - 202486:   Northsea Mercenary, Northsea Thug and D.E.H.T.A 
+202487  - 202487:   Dalaran Visitor 
 == =================================================================
 == Reference-Loot-Template:
 == =================================================================
