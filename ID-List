@@ -77,9 +77,11 @@
 5005850 - 5005885:  Defense Dummy Target for Kvaldir Mist Lord
 5005886 - 5005904:  Dalaran Visitor 
 5005905 - 5005913:  Plagued/Reckless Scavenger and Scourged Footman
+
 == =================================================================
 == Gameobject:
 == =================================================================
+
 246000  -  246999:  Arathi Basin Spawn
 2026183 - 2026203:  Gods Like Shiny Things - Trigger
 2026623 - 2026624:  AV - Banner
@@ -107,6 +109,7 @@
 == =================================================================
 == Creature Template:
 == =================================================================
+
 1010579 - 1010579:  Gods Like Shiny Things - Trigger
 1010679 - 1010679:  Valduran the Stormborn Trigger
 1010688 - 1010690:  ToC - Dot tigger
@@ -116,19 +119,24 @@
 == =================================================================
 == Waypoint-Scripts-GUIDS:
 == =================================================================
+
 10000   - 10000:    Mechagnome Laborer and Mechagnome Attendant Script
 10001   - 10001:    Ancient Orc Ancestor Script
+
 == =================================================================
 == Pool-Template:
 == =================================================================
+
 202483  - 202483:   Nameless Prophet
 202484  - 202485:   Wounded Skirmisher + Wounded Westfall Infantry
 202486  - 202486:   Northsea Mercenary, Northsea Thug and D.E.H.T.A 
 202487  - 202487:   Dalaran Visitor 
 202488  - 202488:   Nerub''ar Victim
+
 == =================================================================
 == Reference-Loot-Template:
 == =================================================================
+
 80001    - 80001:   Flame Leviathan Skinning
 50018    - 50018:   Minor Darkmoon Prize
 50019    - 50019:   Battered Junkbox
@@ -136,6 +144,7 @@
 == =================================================================
 == Gossip-Menu-Options:
 == =================================================================
+
 60076    - 60076:   Yeh\'kinya
 65000    - 65000:   Byancie
 
