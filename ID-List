@@ -78,6 +78,7 @@
 5005850 - 5005885:  Defense Dummy Target for Kvaldir Mist Lord
 5005886 - 5005904:  Dalaran Visitor 
 5005905 - 5005927:  Risen Longrunner, Ghostly Sage, Dead Caravan Guard <Warsong Offensive> and Dead Caravan Worker <Warsong Offensive>
+5005928 - 5005938:  Plagued/Reckless Scavenger and Scourged Footman
 
 == =================================================================
 == Gameobject:
@@ -117,7 +118,7 @@
 1010688 - 1010690:  ToC - Dot tigger
 
 2010690 - 2010690:  Generic Zone Spawner
-2010691 - 2010691:  Plague Scavenger Bunny
+2010691 - 2010691:  Reckless Scavenger Bunny
 
 == =================================================================
 == Waypoint-Scripts-GUIDS:
