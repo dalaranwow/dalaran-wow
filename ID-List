@@ -79,6 +79,7 @@
 5005886 - 5005904:  Dalaran Visitor 
 5005905 - 5005927:  Risen Longrunner, Ghostly Sage, Dead Caravan Guard <Warsong Offensive> and Dead Caravan Worker <Warsong Offensive>
 5005928 - 5005938:  Plagued/Reckless Scavenger and Scourged Footman + Reckless Scavenger Bunny
+5005939 - 5006086:  Glimmer Bay Orca, Winterfin Shorestriker, Winterfin Oracle, Winterfin Warrior, Winterfin Gatherer
 
 == =================================================================
 == Gameobject:
@@ -108,6 +109,7 @@
 4000084 - 4000088:  Charred Wreckage
 4000089 - 4000089:  Kvaldir Inferno
 4000127 - 4000140:  Coldrock Clam
+4000141 - 4000163:  NPC Fishing Bobber
 
 == =================================================================
 == Creature Template:
