@@ -26,6 +26,6 @@ Issues without proofs will be closed and tag On Hold will be added until the pro
 
 **Include the ID for the game objects, npcs (creatures,pets,minions), spells, items, quests, instances, zones, achievements, skills**
 
-You can research this on several pages like http://wotlk.openwow.com or http://wowhead.com/
+You can research this on several pages like https://wowgaming.altervista.org/aowow/ or https://wowhead.com/
 
 **Include Screenshots from the issue if necessary**
