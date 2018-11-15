@@ -1,0 +1,64 @@
+-- show pictures
+![GitHub Logo]()
+
+-- Fixed Issue --
+The issue has been fixed by a developer and will be tested on the Public Test Realm in the future (PTR). The changes/fixes will be applied with the NEXT changelog on the liverealm in the future.
+This means that the issue exists in game at the moment i wrote this message.
+**Only once the issue was marked with "Fixed - On Live Server", you can find the fix on your game server.**
+Please watch http://www.dalaran-wow.com/news/ to see when the changelog and the fix was applied.
+
+-- ========================================================================================================================================================================================================
+-- ========================================================================================================================================================================================================
+-- Duplicate Issue --
+Your issue posted here is a duplicate of issue: XXXXX (< click on this and you will be redirected to the original posted issue). 
+
+As you can see the issue has been fixed by a developer and will be tested on the Public Test Realm in the future (PTR). The changes/fixes will be applied with the NEXT changelog on the liverealm in the future.
+This means that the issue exists in game at the moment i wrote this message.
+**Only once the issue was marked with "Fixed - On Live Server", you can find the fix on your game server.**
+Please watch http://www.dalaran-wow.com/news/ to see when the changelog and the fix was applied.
+-- ========================================================================================================================================================================================================
+-- ========================================================================================================================================================================================================
+
+-- Retail Bug --
+This is same case as on retail, where they don't scale. The buff & debuff tooltips don't take into account any talents/glyphs, so they will always show the default amount.
+
+You can check the correct amount in your action bar/spellbook tooltip.
+
+Closed.
+
+-- ========================================================================================================================================================================================================
+-- ========================================================================================================================================================================================================
+
+-- GM ONLY --
+The issuetracker is for serverside and gamemechanic issues only. Please write an Ingame-issue to a Gamemaster and the Gamemaster will then help you as soon as he can. (Or create a new Ingame-Account in order to be able to talk with a gamemaster with you new level 1 character) Thank you.
+
+![GitHub Logo](http://i.imgur.com/bYkYeGQ.png)
+
+-- ========================================================================================================================================================================================================
+-- ========================================================================================================================================================================================================
+
+-- Already working on PTR --
+This works fine on PTR.
+
+Loth will review it and applies the fix from the PTR to the live realm soon. Thank you for the report.
+
+I would like to ask you and everyone else to _**not**_ consider other private server projects as source of information. The only valid source is retail (3.X.X) and sites that directly extract information from there like wowhead and wowwiki.
+
+-- ========================================================================================================================================================================================================
+-- ========================================================================================================================================================================================================
+
+-- ========================================================================================================================================================================================================
+-- ========================================================================================================================================================================================================
+
+QUEST REACCEPT - ITEMS
+Yes you can fix that issue by yourself. Just remove the quest from your questlog. (Don't worry the items will still be in your bag). Then reaccept the quest, and then you can directly complete it. Thank you.
+
+-- ========================================================================================================================================================================================================
+-- ========================================================================================================================================================================================================
+
+REPRODUCE
+I cannot confirm this on PTR. The creatures follows the player as it should. Also after every respawn it follows the player. 
+If you could give me more details or a way to reproduce the issue, i will reinspect it. Thanks. Setting the issue on HOLD for now until we can reproduce it.
+
+-- ========================================================================================================================================================================================================
+-- ========================================================================================================================================================================================================
